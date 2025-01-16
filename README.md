@@ -16,3 +16,6 @@ This is HelpBit: An assistant for Micro:bit
 
 ## How to use
 Read **wiki**, to learn how to use.
+
+## Builds with Helpbit
+- Iv'e made Cortex bot with this frimware. Fun fact: CX animation on start of HelpBit is a Cortex first and last word.
