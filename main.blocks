@@ -1,0 +1,85 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="Vb/|5t625*eTzG*vncq1" x="-257" y="-736"><statement name="HANDLER"><block type="device_show_leds" id="^ry]Di+ryFIVEr9s%E6@"><field name="LEDS">`
+        . . . . # 
+        # # # . . 
+        . # . # . 
+        # # # . . 
+        . . . . #
+        `</field><next><block type="device_pause" id="V^}*_Ub~WvN2F.9CO-O9"><value name="pause"><shadow type="timePicker" id="[Z?7O^ysb*Jk;36$3=V%"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="e{;S=3:p|[KC5qSy?2l["><field name="LEDS">`
+        . . . . # 
+        # # # . . 
+        # . . # . 
+        # # # . . 
+        . . . . #
+        `</field><next><block type="device_pause" id="@WGEsA:Ex9${/c,?.H3~"><value name="pause"><shadow type="timePicker" id="3Hh(tjiPtGH*Ur%xcnmY"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="0X-Q$:jeJ;H52oiU]*vf"><field name="LEDS">`
+        . . . . . 
+        # # # . # 
+        # . . # . 
+        # # # . . 
+        . . . . #
+        `</field><next><block type="device_pause" id="43r/ei`t;:mzp*9.3{ek"><value name="pause"><shadow type="timePicker" id="Mn|cE7}PCNg65kooL,bp"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="z;lFw8z(-kenyyajA*gi"><field name="LEDS">`
+        . . . . . 
+        # # # . # 
+        # . . # . 
+        # # # . # 
+        . . . . .
+        `</field><next><block type="device_pause" id="B~grA28,Hy8H]d!Pgd:("><value name="pause"><shadow type="timePicker" id="Gzu{ud+@#r?GC[iVzx@_"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="#Tp~SpgTZh*mTBsnb-GX"><field name="LEDS">`
+        # # # # # 
+        # # # . # 
+        # . . # . 
+        # # # . # 
+        . . . . .
+        `</field><next><block type="device_pause" id="YM:.6JOVqeFuL+[89K:e"><value name="pause"><shadow type="timePicker" id="3)tGH40H`gL-N!-c:YSy"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="H,!!EOSgCgT/LWUfi8lH"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # . . # . 
+        # # # . # 
+        . . . . .
+        `</field><next><block type="device_pause" id="bcKXmo%#{HikM*)m#3gQ"><value name="pause"><shadow type="timePicker" id="#ZyczPIadiMRZD||zf|E"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="^@t7T9,K+EE.gw4`F+sE"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # . # 
+        . . . . .
+        `</field><next><block type="device_pause" id="DMQSc/gP=+a.sVn{`53r"><value name="pause"><shadow type="timePicker" id="1/8RpU:v!A[!8D!#mmTt"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="]LpC|Ee+6.*])mU]Y[y9"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        . . . . .
+        `</field><next><block type="device_pause" id="TD;R6!xXzFYV(%ZGX^0|"><value name="pause"><shadow type="timePicker" id="0a9gv*,OH]7X}g%N}nT="><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="{uU{hG!-ARby3v~lO1*+"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="a0.`fb6_k-3{g#Sa2z`H"><value name="pause"><shadow type="timePicker" id="D[(kI0edoMSK_qtZ8(()"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="|Q(ZN1wHzm~Mm(J^zVEw"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="_-OvGf^Hqr3j.-`EE)ZD"><value name="pause"><shadow type="timePicker" id=",RnT#R-a+DQ}(Bdsa49-"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="{i@aS|1?bUVt5RQBu9@!"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_pause" id="pQavR:.fae[ME{in8t=s"><value name="pause"><shadow type="timePicker" id="e1id+jI1chtUR4B|(wOy"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="~l.|S+xtr{@C8JJj/w7;"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="/Z,S}9W_Y(9l{O^FWD{x"><value name="pause"><shadow type="timePicker" id="H%RDOVp-B)}=6n1d#x/+"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="j[26;ZL?!b~ZI:/!pz$."><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_pause" id="5@^Y^^10v?0#T(Nv$=|v"><value name="pause"><shadow type="timePicker" id=")-sCBA%oNc-!~9sl^4KM"><field name="ms">1000</field></shadow></value><next><block type="device_print_message" id="=jur,nj-UJM.B_=v:uKJ"><value name="text"><shadow type="text" id="0,6,(uei5Kb]Ze|xe?d:"><field name="TEXT">Hi!</field></shadow></value><next><block type="device_pause" id="2BH_Uf_Z0Cm+7Y#!L8PQ"><value name="pause"><shadow type="timePicker" id="r#b(*,sAm0wx)Xw0Dy-H"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="%z+jfip+,uu@IFrVD-]6"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="hmhK3:q9)LFe@RQca~q_" x="131" y="-174"></block><block type="makerbit_infrared_on_ir_button" id="+*fh|U#/{pO}Q_*!O!r`" x="0" y="0"><field name="button">IrButton.Up</field><field name="action">IrButtonAction.Pressed</field><statement name="HANDLER"><block type="maqueenPlusV2_controlMotor" id="aca:~nAP@/b8A8z|PM?%"><field name="emotor">maqueenPlusV2.MyEnumMotor.AllMotor</field><field name="edir">maqueenPlusV2.MyEnumDir.Forward</field><value name="speed"><shadow type="math_number_minmax" id="nW;VIZ$;rr@(5R30lA_C"><mutation min="0" max="255" label="Speed" precision="0"></mutation><field name="SLIDER">45</field></shadow></value></block></statement></block><block type="makerbit_infrared_on_ir_button" id="U4vhsmB)$]$is;E]V=u}" x="-4" y="150"><field name="button">IrButton.Up</field><field name="action">IrButtonAction.Released</field><statement name="HANDLER"><block type="maqueenPlusV2_controlMotorStop" id="1zDuA{m#CGT}d}=]W=AM"><field name="emotor">maqueenPlusV2.MyEnumMotor.AllMotor</field></block></statement></block><block type="makerbit_infrared_on_ir_button" id="73TB[O7[4;Q~`,Ka;E?(" x="-2" y="287"><field name="button">IrButton.Down</field><field name="action">IrButtonAction.Pressed</field><statement name="HANDLER"><block type="maqueenPlusV2_controlMotor" id="NMvm2!pT)(u@oA2|8r97"><field name="emotor">maqueenPlusV2.MyEnumMotor.AllMotor</field><field name="edir">maqueenPlusV2.MyEnumDir.Backward</field><value name="speed"><shadow type="math_number_minmax" id="G@ob_|cJDc=ct5+3TRl["><mutation min="0" max="255" label="Speed" precision="0"></mutation><field name="SLIDER">45</field></shadow></value></block></statement></block><block type="makerbit_infrared_on_ir_button" id=".i[8O|@f#7R6[_5ro_Bz" x="-3" y="436"><field name="button">IrButton.Down</field><field name="action">IrButtonAction.Released</field><statement name="HANDLER"><block type="maqueenPlusV2_controlMotorStop" id="af=2$Z4R,NJoET3I7.EK"><field name="emotor">maqueenPlusV2.MyEnumMotor.AllMotor</field></block></statement></block><block type="makerbit_infrared_on_ir_button" id="ap/]+C5RC}ssu,qI70hN" x="0" y="580"><field name="button">IrButton.Ok</field><field name="action">IrButtonAction.Pressed</field></block></xml>
