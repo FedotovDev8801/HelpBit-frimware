@@ -1,0 +1,13 @@
+{
+  "name": "helpbit",
+  "version": "1.0.0",
+  "description": "Microbit helper firmware",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "your-test-command",
+    "build": "your-build-command"
+  },
+  "keywords": ["microbit", "firmware", "helpbit"],
+  "author": "FedotovDev",
+  "license": "Fdev_License"
+}
